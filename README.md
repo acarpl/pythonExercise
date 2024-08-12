@@ -14,7 +14,7 @@ Set Up Your Environment: Use an IDE like VS Code or PyCharm for a better coding 
 Clone the Repository: Download or clone this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/username/python-for-beginners.git
+git clone https://github.com/acarpl/pythonExercise.git
 cd python-for-beginners
 How to Use This Repository
 Follow the Tutorials: Start with the basic scripts in the tutorials folder. Each script is named according to the concept it covers.
